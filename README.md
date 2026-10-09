@@ -3,7 +3,7 @@
 > **Green Business Intelligence & Sustainability Dashboard**  
 > *Desarrollado en Google Opal para la inmersión ONE AI For Business (2026).*
 
-![ARI News Banner](docs/dashboard-dark.png)
+![ARI News Banner](docs/dashboard.jpeg)
 
 ---
 
@@ -54,12 +54,23 @@ El sistema opera mediante una arquitectura distribuida de nodos en Google Opal:
 
 ---
 
-## 🙏 Agradecimientos
+## Reconocimientos
 
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/oracle)
-[![Alura](https://img.shields.io/badge/Alura_Latam-0070F3?style=for-the-badge&logo=codecademy&logoColor=white)](https://github.com/alura-es)
+Este proyecto fue desarrollado como parte de la **Inmersión AI For Business**, una experiencia de aprendizaje de Alura Latam en colaboración con Oracle, orientada a la exploración de herramientas de inteligencia artificial y su aplicación en proyectos prácticos.
 
-Mi más sincero agradecimiento a **Alura Latam** y **Oracle** por impulsar el programa **ONE (Oracle Next Education)** y brindar este espacio de aprendizaje continuo. Gracias a su compromiso con la educación tecnológica, pude explorar el potencial de los agentes de Inteligencia Artificial para negocios y desarrollar este proyecto.
+<p align="center">
+  <a href="https://www.aluracursos.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.logo.dev/aluracursos.com?token=pk_MKzNBJd4Q1CwkNkHUcLhYA&format=webp&retina=true" alt="Logo de Alura Latam" height="55">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.oracle.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.logo.dev/oracle.com?token=pk_MKzNBJd4Q1CwkNkHUcLhYA&format=webp&retina=true" alt="Logo de Oracle" height="55">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Proyecto educativo creado por Keisy Valverde · 2026</sub>
+</p>
 
 ---
 
