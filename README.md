@@ -29,11 +29,21 @@ El proyecto combina lógica de inteligencia artificial generativa, arquitectura 
 
 ![Tarjetas de noticias de ARI NEWS: EcoPulse CR](assets/screenshots/ecopulse-news-results.png)
 
-### Arquitectura del workflow
+## Diagrama del workflow de Google Opal
 
-El siguiente diagrama muestra el flujo de trabajo desarrollado en Google Opal y la conexión entre los nodos que componen ARI NEWS: EcoPulse CR.
+El siguiente diagrama muestra la estructura visual del flujo de trabajo de **ARI NEWS: EcoPulse CR**, implementado en Google Opal. Permite observar la organización de los nodos que intervienen en el procesamiento de las entradas, la búsqueda de noticias y la generación de la interfaz web.
 
-![Workflow de Google Opal de ARI NEWS: EcoPulse CR](assets/screenshots/opal-workflow.png)
+![Workflow de ARI NEWS: EcoPulse CR](../assets/screenshots/opal-workflow.png)
+
+*Fuente: captura del flujo de trabajo del proyecto en Google Opal.*
+
+## Probar la aplicación
+
+Explora **ARI NEWS: EcoPulse CR**, un radar de inteligencia de negocios sostenibles impulsado por inteligencia artificial.
+
+[**Abrir ARI NEWS: EcoPulse CR en Google Opal**](https://opal.google/app/1_i_lHRGDYCZDg8pwqsb3GDFxNtaXqce-))
+
+> Nota: La disponibilidad de la aplicación depende de los permisos de acceso y las opciones de publicación configuradas en Google Opal.
 
 ---
 
