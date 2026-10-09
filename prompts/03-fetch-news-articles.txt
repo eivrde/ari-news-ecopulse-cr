@@ -1,0 +1,14 @@
+Search for the most recent and impactful green business, clean technology, and sustainability news articles based on the following criteria:
+
+- Sector: [Sector]
+- Region: [Region]
+- Max Date Limit: [Date] (Only articles published on or before this date)
+- Number of articles to retrieve: [Quantity]
+
+For each article found, extract and format the following structured information in Spanish:
+1. Title (Clear and compelling headline)
+2. Source (Publisher / Media outlet)
+3. Date (Publication date in YYYY-MM-DD format)
+4. Summary (2-3 concise sentences detailing the core business and environmental impact)
+
+Ensure all information is accurate, factual, and strictly focused on green business intelligence and clean technology. Output the structured results clearly in Spanish.

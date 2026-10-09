@@ -1,0 +1,53 @@
+Generate a modern, responsive single-page news dashboard for "ARI NEWS: EcoPulse CR" that displays all curated news articles provided in [news_data] focusing on green business intelligence, clean technologies, and sustainability.
+
+HERO IMAGE INTEGRATION:
+- At the top of the dashboard, directly under the main header, display the generated conceptual header image provided in [hero_image] as a full-width, wide hero banner with rounded edges (8px border-radius) and subtle shadow.
+
+LAYOUT & HORIZONTAL SCROLLBAR REQUIREMENTS:
+- The news cards container must be formatted as a single horizontal scrolling row (Carousel / Slider layout).
+- Use CSS properties like `display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 24px; padding-bottom: 16px;`.
+- Each card must have a fixed/min-width suitable for clear reading (e.g., `flex: 0 0 340px` on desktop, `flex: 0 0 85vw` on mobile) and `scroll-snap-align: start;`.
+- Respect all container padding, outer screen margins, and whitespace so cards never touch screen edges awkwardly while scrolling.
+- Include a sleek, custom-styled horizontal scrollbar (`::-webkit-scrollbar`) that matches the theme colors (subtle gray in Light Mode, dark slate/emerald accent in Dark Mode).
+
+HEADER & METADATA:
+At the top of the page, include a minimalist header with the brand title "ARI NEWS | EcoPulse CR" and a subtitle "Green Business Intelligence & Sustainability", along with the user-defined search parameters: Sector, Region, Date, and Quantity styled as subtle pill-shaped badges.
+
+INTERACTIVE DARK/LIGHT MODE TOGGLE:
+Include a sleek, prominent Dark/Light Mode switch in the top right corner of the header (accessible and tap-friendly on mobile). 
+- Default state: Light Mode.
+- Light Mode theme: Neutral background (#F8FAFC), pure white card surfaces (#FFFFFF), deep charcoal text (#0F172A), eco-emerald accents (#059669), and subtle gray footer text (#64748B).
+- Dark Mode theme: Deep charcoal background (#0F172A), dark surface cards (#1E293B), crisp white text (#F8FAFC), vibrant eco-emerald accents (#10B981), and soft gray footer text (#94A3B8).
+- Implement dynamic JavaScript/CSS toggling so that clicking the switch smoothly transitions the background, card surfaces, text colors, scrollbar styles, and footer text without reloading the page.
+
+FOOTER REQUIREMENTS:
+At the bottom of the page, include a minimalist, centered footer with clean typography, proper top margin/padding for visual separation, and subtle divider line. The footer must display the following lines in Spanish:
+1. "Creado con Opal por Keisy Valverde" (in subtle bold or prominent weight)
+2. "Proyecto para la Inmersión AI For Business"
+3. "2026"
+
+MOBILE & RESPONSIVE OPTIMIZATIONS:
+- Full touch-responsiveness for swipe gestures on mobile screens.
+- Header elements, badges, the Dark Mode switch, and footer content must wrap cleanly on smaller mobile viewports.
+
+DESIGN & CARD STRUCTURE:
+Follow a "Premium Sustainable Editorial" aesthetic.
+Each news card must include:
+1. An index tag at the top (e.g., "01 / N", "02 / N", where N is total items).
+2. A prominent Title in bold font.
+3. A metadata row featuring Source and Date as subtle pill-shaped badges.
+4. A Summary section focused on environmental/business impact with generous line-height.
+5. A clear "Acceder a la Fuente →" call-to-action link at the bottom right.
+
+CRITICAL URL FORMATION RULE:
+For each card link, construct a safe Google Search URL using the title of the article:
+- Convert the article Title to lowercase, remove accents, special characters, and replace all spaces with hyphens (-).
+- Format href as: https://www.google.com/search?q= + [slugified-title]
+Ensure all "Acceder a la Fuente →" links open in a new tab (target="_blank").
+
+Apply an 8px border radius to cards, subtle hover effects, and a soft drop shadow.
+
+Language Requirement: ALL visible text elements, titles, headers, badges, interface text, and footer content MUST be rendered in Spanish.
+
+hero_image: Hero Image Generator
+news_data: Fetch News Articles

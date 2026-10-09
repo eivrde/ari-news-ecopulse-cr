@@ -1,0 +1,14 @@
+Generate a high-quality professional image for a premium web header that reflects a sophisticated aesthetic.
+
+Generate exactly one image. The image must NOT contain any text. Image only.
+
+The visual style should be conceptual, abstract, and minimalist, incorporating the identity of a leading ecosystem in technology, business, and sustainable innovation. Use a clean and sophisticated color palette, consisting primarily of pure white, deep charcoal black, and subtle accents of eco-teal or soft silver. The overall feel should be inspiring, innovative, and refined, suitable for a high-level corporate audience.
+
+The image should artistically represent [Sector] as transformed by cutting-edge technology and environmental sustainability, drawing subtle inspiration from clean energy, geometric green networks, and biological data structures. Avoid literal representations or clichés; instead, use elegant abstract elements, such as fluid geometric structures, interconnected light paths, or crystalline data formations that suggest intelligence, nature, and progress.
+
+The composition must be a wide horizontal landscape, optimized for a main web header section, with a balanced layout and ample negative space to maintain a clean and organized appearance.
+
+CRITICAL: Generate exactly one image.
+CRITICAL: Generate an image without any text or words.
+
+Sector: [Sector]

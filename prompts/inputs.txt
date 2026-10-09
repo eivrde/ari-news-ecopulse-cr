@@ -1,0 +1,53 @@
+========================================================================
+GOOGLE OPAL - CONFIGURACIÓN DE NODOS DE ENTRADA (USER INPUTS)
+Proyecto: ARI NEWS: EcoPulse CR
+========================================================================
+
+--- NODO DE ENTRADA 1: Sector ---
+Tipo de Nodo: Dropdown / Text Input
+Nombre de Variable: [Sector]
+Label / Etiqueta: Sector de Interés
+Opciones Sugeridas:
+  - Energías Renovables
+  - Biotecnología
+  - Movilidad Eléctrica
+  - Economía Circular
+  - Agricultura Sostenible
+Descripción / Prompt de Ayuda:
+Selecciona o ingresa el sector sobre el cual deseas filtrar el radar de inteligencia verde.
+
+------------------------------------------------------------------------
+
+--- NODO DE ENTRADA 2: Región ---
+Tipo de Nodo: Dropdown / Text Input
+Nombre de Variable: [Region]
+Label / Etiqueta: Cobertura Geográfica
+Opciones Sugeridas:
+  - Costa Rica
+  - América Latina
+  - Global
+Descripción / Prompt de Ayuda:
+Define el alcance geográfico para la búsqueda de noticias e innovaciones.
+
+------------------------------------------------------------------------
+
+--- NODO DE ENTRADA 3: Fecha ---
+Tipo de Nodo: Text Input
+Nombre de Variable: [Date]
+Label / Etiqueta: Fecha Límite de Publicación
+Formato Requerido: YYYY-MM-DD (ejemplo: 2026-10-08)
+Descripción / Prompt de Ayuda:
+Fecha de corte para asegurar la extracción de noticias recientes publicadas en o antes de este día.
+
+------------------------------------------------------------------------
+
+--- NODO DE ENTRADA 4: Cantidad ---
+Tipo de Nodo: Number Input / Slider
+Nombre de Variable: [Quantity]
+Label / Etiqueta: Cantidad de Noticias
+Rango Recomendado: Mínimo 3 - Máximo 10
+Valor por Defecto: 5
+Descripción / Prompt de Ayuda:
+Número exacto de tarjetas de noticias que se renderizarán en la interfaz.
+
+========================================================================
