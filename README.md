@@ -33,7 +33,7 @@ El proyecto combina lógica de inteligencia artificial generativa, arquitectura 
 
 El siguiente diagrama muestra la estructura visual del flujo de trabajo de **ARI NEWS: EcoPulse CR**, implementado en Google Opal. Permite observar la organización de los nodos que intervienen en el procesamiento de las entradas, la búsqueda de noticias y la generación de la interfaz web.
 
-![Workflow de ARI NEWS: EcoPulse CR](../assets/screenshots/opal-workflow.png)
+![Workflow de ARI NEWS: EcoPulse CR](assets/screenshots/opal-workflow.png)
 
 *Fuente: captura del flujo de trabajo del proyecto en Google Opal.*
 
