@@ -3,7 +3,7 @@
 > **Green Business Intelligence & Sustainability Dashboard**  
 > *Desarrollado en Google Opal para la inmersión ONE AI For Business (2026).*
 
-![ARI News Banner](docs/dashboard.jpeg)
+![ARI News Banner](assets/dashboard.jpeg)
 
 ---
 
